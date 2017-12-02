@@ -1,0 +1,40 @@
+* {
+  font-family: "Lato", "Helvetica", Sans-Serif;
+  font-size: 16px;
+  font-weight: normal;
+  color: #212529;
+  text-align: left;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+.ps-nav-brand {
+  font-size: 1.5rem;
+  margin: 1rem 0;
+}
+
+.ps-navbar {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #333;
+  align-items: center;
+}
+
+.ps-navbar-nav {
+  display: flex;
+  list-style: none;
+}
+
+.ps-navbar-nav li {
+  margin-right: 1.5rem;
+}
+
+
+
+
+
+
